@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "slack-shift-bot-a",
+  "private_key_id": "964a24ac681824329e27622e1fa4c477e2f9181d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvqlB6kg2gmn5k\n6jYvPjUzSbss5YRC/xVGY6bUEoecp50iYsRZQHcl1Cn2GOSR/eTxSdrTkQG8pkKB\nBL1ihpO3EuDr+98MQTmUWCGpOOuIgXW+xa0baOAfgKxuoHYshbIJKnAMZqLvo45O\nPbO1Fy7i5VUHbHOndTwR1RPwysbMlB6I8PrGvu9imV3/s5G2jSyvmQiwmSxAcw5k\niRo3TmY9bQ6x5YyG3qVbadhvcThPlzahVvuDKXBtLcJA4fO0rhVg63iqOePLo8yY\naTj1DOtatg8EYuhSj3TB3ivb1efYicAsCVkwTwRNgRVwLI/BSsJi/e+p2wyeIqIh\nE/ntrSqpAgMBAAECggEAAWe7H5PiBIYf2zZNayjT+55MH0KRwYhxVuAOslUYnR3x\nIZiJKg6cNWMCV+vgjjNp/K0i0Tzwdt4cm5QaYLqjXVxLDNA1u08dQwzGbihcp/mj\nI7zIkvbOjin1Fyh08Yu7PhwHC+5ZQNH93i3brWfrUdjUSowpS65iJeFeuLciinnk\ndMPOYHty3vd/A73LB/6nIExdM6JPOuhMPw0mPHe++HcXn5w9tShBy0V7FKeBhBYk\nxqwSGtHbUgQyIGmH5acQ6YiBl+1tNF0gVBZqzFMVNh7jWdxUisZVn21BwQx0oduc\ncNeGNyOzfr3pa365/p47SDkkji2g7+MQNdlYYsSNwQKBgQDZ/lnK+a+og2xLza3a\n8ZAe9PG7hcvqUahWfAIw9Pshtmu2AIS8TXKhgYqQVwKcC+5LQdBvi7KnlTE18DjK\nbYWPiiVTnlqarp5SHNMvKMUr+jIF4xXMVsFK1ZE1ML2pXQVxz9L85jHR2c7NTsJz\nxdccJO2tN93XyhJchB63aPLb4QKBgQDOSry3x0j4S0fwBPJqFdZLpakh870WXd7J\nUTMlgk2uohN+Mb/hPjNFo0pq0nA8glShPSyPrrk/z44eZB3XB3Nyn8GQ3+n2z/Mx\n3QHj1dxM47PIToEKWlrZWGZEhxndZgi8/KQ0KucM4R/zsn6+6WVK8wWAq8PF2c0U\ns8J7eWdnyQKBgDN6MNIRrD1q64PrCgcNzC7DQOI7ci/fIJVrq0jMURFg9oaAENg2\nob8pzALRyTf4SUlUPVhZ8NJKFNjb5U1IF6YRxUa9uj+UxKY3UFdulUERUAa73UXn\nprV5QVUCMYdxA/wgS36VDWa0vHUXCCw2p9lpjwa8jpKKkVNvj6FYEyGBAoGAduev\nNULh9XP26AsB61Hg7kNzZIWINO8wbdum3nTn78Ot9qwYTG08wmPnjgDz/nyk6TdI\nix0L3BL3eN7+MCY0Thp1SNs3kTK1m8UmxLtNOuh4hPly+ZOxD9wbPl6c8vdQDBaX\nUxZzjQHqF96HneULpJLFVjArLMxooAkpDWCh0LkCgYEA1Vmr2B0nf5l19XpvB0gl\ndEFLii6T2OmU1hVl+AUplV8jdRimRhokK0kSlTnU3A3L+aKoOUiL5gU/nQ/uYMi7\n+P2IM4NUhWlaTMoBajYbXUh+n21CiHKr9BZc3UdCU4bzu+BOvwtd1cCdWJ5tw9bE\n9IcWFGxXcFxt36yHiHoFW8g=\n-----END PRIVATE KEY-----\n",
+  "client_email": "slack-shift-bot-a@slack-shift-bot-a.iam.gserviceaccount.com",
+  "client_id": "105736431122218049753",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/slack-shift-bot-a%40slack-shift-bot-a.iam.gserviceaccount.com"
+}
