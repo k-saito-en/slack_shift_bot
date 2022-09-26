@@ -1,5 +1,7 @@
 # coding: utf-8
 
+import json
+from termios import B0
 from slackbot.bot import respond_to #@slack_shift_bot のメンションに反応するデコーダ
 from slackbot.bot import listen_to #＠メンバーのslack IDでを読み取るデコーダ
 
@@ -15,8 +17,6 @@ dic_slackmember_name = {}
 dic_slackmember_name ['アルバイトメンバーA'] = ['/Users/kotarosaito/Documents/ドキュメント/slack_shift_bot/members_id/slack-shift-bot-a-964a24ac6818.json' , '1W-o7PbNLgWfgaNYw_Xl7tbC9YxZHdeB1FfmjkTwOobY']
 #アルバイトメンバーBの情報を追加
 dic_slackmember_name ['アルバイトメンバーB'] = ['/Users/kotarosaito/Documents/ドキュメント/slack_shift_bot/members_id/slack-shift-bot-b-b1d9bb6e5e5e.json' , '129JjNfNBzw-7qIbh3RgNBl2yMOfKH7F_oK1XFNW5Fww']
-#認証鍵のパス（文字列）を取得
-print(dic_slackmember_name ['@アルバイトメンバーB'] [0])
 
 
 
@@ -29,5 +29,7 @@ PLUGINS = ['plugins']
 @listen_to('^(.*)$')
 def getjson (message):
     slackid = message
-    return(slackid)
+    member_json = str(dic_slackmember_name [slackid] [0])
+    print (member_json)
 
+getjson('アルバイトメンバーB')
