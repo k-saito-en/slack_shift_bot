@@ -13,7 +13,9 @@
 <img width="1288" alt="スクリーンショット 2022-09-29 19 40 21" src="https://user-images.githubusercontent.com/111550856/193028830-86b5744a-94ac-4f9f-a2fe-e04dbdf41f5c.png">
 
 # システム構成図（暫定版）
-![システム設計図 drawio](https://user-images.githubusercontent.com/111550856/193030462-0d852512-b694-4c3d-a200-bf863bc1e9ef.png)
+![システム設計図 drawioのコピー-2-2](https://user-images.githubusercontent.com/111550856/193788685-7b265d18-e405-4d41-8fa8-8829a99162ba.png)
+
+
 
 
 
