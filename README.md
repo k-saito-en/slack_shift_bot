@@ -14,7 +14,9 @@
 
 
 # システム構成図（暫定版）
-![システム設計図 drawioのコピー-2-2](https://user-images.githubusercontent.com/111550856/193788685-7b265d18-e405-4d41-8fa8-8829a99162ba.png)
+![システム構成図2 1 drawio](https://user-images.githubusercontent.com/111550856/194798083-c1d69020-3c3e-441b-b831-c18243bfe69f.png)
+
+
 
 
 
