@@ -10,7 +10,8 @@
 - 二次対応としての機能拡張
 
 # 一時開発全体スケジュール
-<img width="1288" alt="スクリーンショット 2022-09-29 19 40 21" src="https://user-images.githubusercontent.com/111550856/193028830-86b5744a-94ac-4f9f-a2fe-e04dbdf41f5c.png">
+![スクリーンショット 2022-10-10 12 00 48](https://user-images.githubusercontent.com/111550856/194793815-3eec76e2-1bf7-411f-acd9-975a626f51fa.png)
+
 
 # システム構成図（暫定版）
 ![システム設計図 drawioのコピー-2-2](https://user-images.githubusercontent.com/111550856/193788685-7b265d18-e405-4d41-8fa8-8829a99162ba.png)
